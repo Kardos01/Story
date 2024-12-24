@@ -36,3 +36,9 @@ git rm --cached -r . for all ir ./nameof file
 
 and have a file call it .gitignore, write the file that you do not want to be addedd to the 
 git repository
+
+
+
+
+cloning git hub repository
+git clone "the url"
