@@ -1,0 +1,9 @@
+git checkout is like a ollback
+
+
+git status to see the whay faile has been changed
+
+
+git log see the commit 
+
+git diff path    // see what is teh doifferenve between the saved and current file
