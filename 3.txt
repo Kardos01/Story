@@ -14,3 +14,6 @@ git remote add origin https://github.com/Kardos01/Story.git  --- to add this loc
 
 
 git bracnh -M main  /// creating the branch in that github
+
+
+git ignore // igonr one filre hat you do not want to be added to git hub 
