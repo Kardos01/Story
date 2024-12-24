@@ -1,0 +1,7 @@
+kardos branch 
+
+
+making the branch in git hub
+
+
+git branch "nameof branch" 
