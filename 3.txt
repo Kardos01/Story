@@ -42,3 +42,8 @@ git repository
 
 cloning git hub repository
 git clone "the url"
+
+
+
+
+git merg namof-branch // meging teh updates with the other main 
