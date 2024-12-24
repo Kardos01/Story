@@ -17,3 +17,22 @@ git bracnh -M main  /// creating the branch in that github
 
 
 git ignore // igonr one filre hat you do not want to be added to git hub 
+
+
+ANY tie you want to add a file  to git hub, you have to change the git b ranch to the one 
+you wanted to be added 
+.
+
+
+
+
+inorder to remove af ile form the git stage 
+when you write  the git status -- it tells you what are the file tat are ready andin the 
+stage to be commited, 
+
+if you want to remove oine form that list here is the command for that 
+git rm --cached -r . for all ir ./nameof file
+
+
+and have a file call it .gitignore, write the file that you do not want to be addedd to the 
+git repository
