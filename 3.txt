@@ -10,3 +10,7 @@ git diff path    // see what is teh doifferenve between the saved and current fi
 
 
 git remote add origin https://github.com/Kardos01/Story.git  --- to add this local git to git hub
+
+
+
+git bracnh -M main  /// creating the branch in that github
